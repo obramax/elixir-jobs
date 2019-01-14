@@ -1,6 +1,8 @@
+# elixir-jobs
+
 **Para o texto em português, veja abaixo.**
 
-# elixir-jobs
+### In English
 
 This repository contains job descriptions Obramax is currently hiring for. Have a look and see if there is something you like.
 
