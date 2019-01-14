@@ -8,12 +8,12 @@ We are hiring software engineers to work on our APIs and a number of new excitin
 
 ## What You Will Do
 
-- Build state of the art APIs that will drive dozens of applications.
+- Build state of the art APIs that power dozens of applications.
 - Build our Product Information Management system to manage, enrich, and publish over 50,000 products to dozens of systems.
 - Create internal tools like mobile checkout system and telesales system to guide our sales team to success.
 - Help us build the technology necessary to transform Obramax into a platform company.
 
-## What You Will Do
+## About You
 
 - You will be part of a new team of generalist engineers who will work across the entire stack.
 - You will work collaboratively and enjoy learning and growing together.
