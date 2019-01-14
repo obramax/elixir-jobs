@@ -40,6 +40,7 @@ We are hiring software engineers to work on our APIs and a number of new excitin
 
 - You have worked with Ruby and Ruby on Rails.
 - You have working knowledge of JavaScript and frontend frameworks (React, Vue.js).
+- You have experience building APIs.
 
 ## Additional Information
 
