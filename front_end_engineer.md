@@ -6,17 +6,19 @@ Our goal is to provide a fast and easy omnichannel retail experience that deligh
 
 We are hiring software engineers to work on our APIs and a number of new exciting products that will help hundreds of thousands of customers build their dream projects.
 
-
 ## What You Will Do
 
 - Build our Product Information Management system to manage, enrich, and publish over 50,000 products to dozens of systems.
 - Create internal tools like mobile checkout and telesales system to guide our sales team to success.
 - Be a thought partner.
+
+## About You
+
 - You will be part of a new team of generalist engineers who will work across the entire stack.
 - You will work collaboratively and enjoy learning and growing together.
 - You are not afraid to tackle hard problems but you are pragmatic about what you spend your time on.
 
-## Technologies In Use
+## Technologies We Use
 
 - Elixir, Phoenix Framework, Ecto
 - Postgresql, Redis
@@ -25,7 +27,7 @@ We are hiring software engineers to work on our APIs and a number of new excitin
 
 ## Required Skills
 
-- You have 2+ year(s) experience with Vue.js, React and Redux.
+- You have 2+ year(s) experience with Vue.js, and/or React and Redux.
 - You write clean, reusable, and well-tested and documented code.
 - You have 5+ years of programming experience in JavaScript and other languages and platforms (Ruby, Rails, CSS, HTML, SCSS, etc...)
 - You are independent and motivated. You don’t need to be told what to do. You can manage your own time independently and pragmatically.
@@ -44,4 +46,4 @@ This is a full-time CLT position with competitive salary and benefits. You will 
 
 ## How to Apply
 
-If this sounds interesting, we would love to hear from you. Please include whatever info you believe is relevant: CV, GitHub profile, code samples, links to personal projects, etc...
+If this sounds interesting, we would love to hear from you. Please send an email to melhusseini at obramax.com.br. Please include whatever info you believe is relevant: CV, GitHub profile, code samples, links to personal projects, etc...
