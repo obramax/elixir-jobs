@@ -1,4 +1,4 @@
-# Full Stack Engineer
+# Front-End Engineer
 
 Obramax is a European retailer with corporate backing from Group Adeo. We are part of the same family of companies like Leroy Merlin, Decathlon, and Zodio. We help architects, interior designers, and construction professionals build their dream projects quickly and easily.
 
