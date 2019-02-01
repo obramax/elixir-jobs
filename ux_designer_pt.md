@@ -8,7 +8,7 @@ Nosso objetivo é fornecer uma experiência de varejo omnichannel rápida e fác
 
 - Trabalhe com nossa equipe e clientes para projetar produtos móveis e de desktop internos e externos. Determine os projetos certos e trabalhe com os engenheiros para implementá-los.
 - Crie e melhore as ferramentas internas, como nosso sistema de CRM, check-out móvel e televendas, para orientar nossa equipe de vendas para o sucesso.
-- Ajude a melhorar nossa marca e crie um styleguide para nossos produtos digitais.
+- Ajude a melhorar nossa marca e crie um style-guide para nossos produtos digitais.
 
 ## Sobre você
 
