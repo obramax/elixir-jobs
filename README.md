@@ -10,6 +10,7 @@ Este repo contém descrições de vagas para as quais a Obramax está atualmente
 - [Desenvolvedor Full Stack](https://github.com/obramax/elixir-jobs/blob/master/full_stack_engineer_pt.md)
 - [Desenvolvedor Front End](https://github.com/obramax/elixir-jobs/blob/master/front_end_engineer_pt.md)
 - [UX Designer](https://github.com/obramax/elixir-jobs/blob/master/ux_designer_pt.md)
+- [Product Manager](https://github.com/obramax/elixir-jobs/blob/master/ux_designer_pt.md)
 
 Estou construindo a nossa primeira equipe de engenharia e design de produto. Temos a mente aberta e temos muita flexibilidade para criar produtos interessantes e construir uma ótima tecnologia. Dê uma olhada e veja se há algo que você gosta.
 
@@ -25,6 +26,7 @@ This repository contains job descriptions Obramax is currently hiring for.
 - [Full Stack Engineer](https://github.com/obramax/elixir-jobs/blob/master/full_stack_engineer_en.md)
 - [Front End Engineer](https://github.com/obramax/elixir-jobs/blob/master/front_end_engineer_en.md)
 - [UX Product Designer](https://github.com/obramax/elixir-jobs/blob/master/ux_designer_pt.md)
+- [Product Manager](https://github.com/obramax/elixir-jobs/blob/master/ux_designer_pt.md)
 
 We are a team of 300 and I'm building our first engineering and product design team. We are open minded and have a lot of flexibility to create exciting products and build great technology. Have a look and see if there is something you like.
 
