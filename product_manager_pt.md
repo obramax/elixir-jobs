@@ -31,7 +31,6 @@ Nosso objetivo é fornecer uma experiência de varejo omnichannel rápida e fác
 ## Informação adicional
 
 - **Localização** Mooca, São Paulo (remoto considerado).
-- **Faixa Salarial** de R$8,000 até R$12,000 com base na experiência.
 
 Esta é uma posição CLT/PJ em período integral com salário e benefícios competitivos. Você será um dos primeiros membros dessa equipe e ajudará a criar e moldar sua cultura.
 
