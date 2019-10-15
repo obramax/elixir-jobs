@@ -40,8 +40,7 @@ Você sabe inglês suficiente para ler e entender a documentação, abrir proble
 
 ## Informação adicional
 
-- **Localização** Mooca, São Paulo (remoto considerado).
-- **Faixa Salarial** de R$8,000 até R$14,000 com base na experiência.
+- **Localização** Remote.
 
 Esta é uma posição CLT/PJ em período integral com salário e benefícios competitivos. Você será um dos primeiros membros dessa equipe e ajudará a criar e moldar sua cultura.
 
