@@ -39,8 +39,7 @@ Our goal is to provide a fast and easy omnichannel retail experience that deligh
 
 ## Additional Information
 
-- **Location** Mooca, São Paulo (remote considered).
-- **Salary Range** R$8,000 to R$13,000 based on experience.
+- **Location** Remote.
 
 This is a full-time CLT/PJ position with competitive salary and benefits. You will be one of the first members of this team and you will help create and shape its culture.
 
