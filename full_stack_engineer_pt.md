@@ -18,7 +18,7 @@ Nosso objetivo é fornecer uma experiência de varejo omnichannel rápida e fác
 - Você gosta de trabalhar em colaboração e gosta de aprender e crescer com os outros.
 Você sabe inglês suficiente para ler e entender a documentação, abrir problemas e colaborar em Open Source.
 
-## Experiência requerida
+## Experiência desejada
 
 - Você tem 1+ ano(s) de experiência com Elixir, Phoenix Framework e Ecto.
 - Você tem 1+ ano (s) de experiência com React or Vue.js.
@@ -42,7 +42,7 @@ Você sabe inglês suficiente para ler e entender a documentação, abrir proble
 
 - **Localização** Remote.
 
-Esta é uma posição CLT/PJ em período integral com salário e benefícios competitivos. Você será um dos primeiros membros dessa equipe e ajudará a criar e moldar sua cultura.
+Esta é uma posição PJ em período integral com salário e benefícios competitivos. Você será um dos primeiros membros dessa equipe e ajudará a criar e moldar sua cultura.
 
 ## Como se candidatar
 
