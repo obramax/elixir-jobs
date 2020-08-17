@@ -7,7 +7,7 @@ Nosso objetivo é fornecer produtos e serviços com uma experiência rápida e f
 ## O que você vai fazer
 
 - Trabalhar com a equipe de engenharia e clientes internos para acompanhar e projetar produtos e innovações que têm impacto para nossa empresa e clientes.
-- Definir e acompnhar KPIs para melhorar varias ferramentas internas.
+- Definir e acompanhar KPIs para melhorar varias ferramentas internas.
 - Construir roadmaps estratégicos alinhados aos objetivos da Obramax e gerencie backlogs de produtos.
 
 ## Sobre você
@@ -25,7 +25,7 @@ Nosso objetivo é fornecer produtos e serviços com uma experiência rápida e f
 ## Vantagens
 
 - Você está confortável trabalhando em diversos tipos de problemas.
-- Você é analítico e procura soluções prontas.
+- Você gosta de fuçar em dados, achar insights, e propor e validar soluções.
 
 ## Informação adicional
 
@@ -33,4 +33,6 @@ Nosso objetivo é fornecer produtos e serviços com uma experiência rápida e f
 
 ## Como se candidatar
 
-Se isso parece interessante, gostaríamos de ouvir de você. Por favor, envie um email para **melhusseini em obramax.com.br**. Por favor inclua o que você acredita ser relevante: CV, portfolio, links para projetos pessoais, etc...
+Se isso parece interessante, gostaríamos de ouvir de você. Por favor, envie um email para Mohamad em **melhusseini aroba obramax.com.br**. Por favor inclua o que você acredita ser relevante: CV, portfolio, links para projetos pessoais, etc...
+
+Conte um pouco de você! Valorizamos uma bela comunicação e apresentação dos candidatos.
