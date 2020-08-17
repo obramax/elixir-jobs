@@ -26,6 +26,7 @@ Nosso objetivo é fornecer produtos e serviços com uma experiência rápida e f
 
 - Você está confortável trabalhando em diversos tipos de problemas.
 - Você gosta de fuçar em dados, achar insights, e propor e validar soluções.
+- Slack, GitHub, Trello, pull-request, user story, etc... fazem algum sentido para você.
 
 ## Informação adicional
 
