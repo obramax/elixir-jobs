@@ -33,6 +33,6 @@ Nosso objetivo é fornecer produtos e serviços com uma experiência rápida e f
 
 ## Como se candidatar
 
-Se isso parece interessante, gostaríamos de ouvir de você. Por favor, envie um email para Mohamad em **melhusseini aroba obramax.com.br**. Por favor inclua o que você acredita ser relevante: CV, portfolio, links para projetos pessoais, etc...
+Se isso parece interessante, gostaríamos de ouvir de você. Por favor, envie um email para Mohamad em **melhusseini arroba obramax.com.br**. Por favor inclua o que você acredita ser relevante: CV, portfolio, links para projetos pessoais, etc...
 
 Conte um pouco de você! Valorizamos uma bela comunicação e apresentação dos candidatos.
