@@ -35,20 +35,20 @@ O arquivo de entrada contem uma lista de métodos com os seguintes campos
 | name                 | string       | Descrição do método de frete que é exibida para o usário                      |
 | active               | boolean      | "true" caso o método seja ativo                                               |
 | min_price_in_cents   | integer      | indica o preço minimo do pedido (em centavos) para que o método seja elegível |
-| range_postcode_valid | list[string] | faixa de cep a qual o método deve ser elegível                                |
+| range_postcode_valid | list[string] | faixa de cep a qual o método deve ser elegível contendo sempre dois valores, onde o primeiro é o cep inicial e o segundo é o cep final |
 
 ### Exemplo de arquivo de entrada
 
 ```json
 [
-	{"name": "Entrega normal SP", "active": true, "min_price_in_cents": 1, "range_postcode_valid": ["01000", "19999"]},
-	{"name": "Entrega normal SP (frete grátis)", "active": true, "min_price_in_cents": 10000, "range_postcode_valid": ["01000", "19999"]},
-	{"name": "Entrega normal RJ", "active": true, "min_price_in_cents": 4500, "range_postcode_valid": ["20000", "26600"]},
-	{"name": "Entrega normal RJ (expressa)", "active": true, "min_price_in_cents": 29900, "range_postcode_valid": ["20000", "26600"]},
-	{"name": "Entrega normal BR", "active": true, "min_price_in_cents": 5000, "range_postcode_valid": ["00000", "99999"]},
-	{"name": "Entrega normal agendada SP", "active": true, "min_price_in_cents": 10000, "range_postcode_valid": ["01000", "19999"]},
-	{"name": "Retirada em loja", "active": true, "min_price_in_cents": 1, "range_postcode_valid": ["0000000", "999999"]},
-	{"name": "Retirada em loja agendada", "active": false, "min_price_in_cents": 1, "range_postcode_valid": ["0000000", "999999"]}
+  {"name": "Entrega normal SP", "active": true, "min_price_in_cents": 1, "range_postcode_valid": ["01000000", "19999999"]},
+  {"name": "Entrega normal SP (frete grátis)", "active": true, "min_price_in_cents": 10000, "range_postcode_valid": ["01000000", "19999999"]},
+  {"name": "Entrega normal RJ", "active": true, "min_price_in_cents": 4500, "range_postcode_valid": ["20000000", "26600999"]},
+  {"name": "Entrega normal RJ (expressa)", "active": true, "min_price_in_cents": 29900, "range_postcode_valid": ["20000000", "26600999"]},
+  {"name": "Entrega normal BR", "active": true, "min_price_in_cents": 5000, "range_postcode_valid": ["00000000", "99999999"]},
+  {"name": "Entrega normal agendada SP", "active": true, "min_price_in_cents": 10000, "range_postcode_valid": ["01000000", "19999999"]},
+  {"name": "Retirada em loja", "active": true, "min_price_in_cents": 1, "range_postcode_valid": ["00000000", "99999999"]},
+  {"name": "Retirada em loja agendada", "active": false, "min_price_in_cents": 1, "range_postcode_valid": ["00000000", "99999999"]}
 ]
 ```
 
@@ -90,7 +90,8 @@ Exemplo:
 CEP: 03108010
 Preço do pedido: 3000
 
-{"name": "Retirada em loja agendada", "active": false, "min_price_in_cents": 1, "range_postcode_valid": ["0000000", "999999"]}
+# Método analisado
+{"name": "Retirada em loja agendada", "active": false, "min_price_in_cents": 1, "range_postcode_valid": ["00000000", "99999999"]}
 
 # Output
 ...
@@ -110,13 +111,12 @@ Exemplo:
 CEP: 03108010
 Preço do pedido: 3000
 
-{"name": "Entrega normal SP (frete grátis)", "active": true, "min_price_in_cents": 10000, 
-"range_postcode_valid": ["01000", "19999"]}
+# Método analisado
+{"name": "Entrega normal SP (frete grátis)", "active": true, "min_price_in_cents": 10000, "range_postcode_valid": ["01000000", "19999999"]}
 
 # Output
 ...
-{"method": "Entrega normal SP (frete grátis)", "valid": false, 
-"incompatibilities": ["Minimum price not reached for this method"]}
+{"method": "Entrega normal SP (frete grátis)", "valid": false, "incompatibilities": ["Minimum price not reached for this method"]}
 ```
 
 ---
@@ -132,7 +132,8 @@ Exemplo:
 CEP: 03108010
 Preço do pedido: 4800
 
-{"name": "Entrega normal RJ", "active": true, "min_price_in_cents": 4500, "range_postcode_valid": ["20000", "26600"]}
+# Método analisado
+{"name": "Entrega normal RJ", "active": true, "min_price_in_cents": 4500, "range_postcode_valid": ["20000000", "26600999"]}
 
 # Output
 ...
@@ -152,12 +153,13 @@ Exemplo:
 CEP: 03108010
 Preço do pedido: 3000
 
+# Método analisado
 {"name": "Entrega normal RJ", "active": false, "min_price_in_cents": 4500, "range_postcode_valid": ["20000", "26600"]}
 
 # Output
 ...
 {"method": "Entrega normal RJ", "valid": false, "incompatibilities": ["Disabled shipping",
-"Minimum price not reached for this method", "Zip code outside the delivery area for this method"]}
+  "Minimum price not reached for this method", "Zip code outside the delivery area for this method"]}
 ```
 
 ## Nossas expectativas
