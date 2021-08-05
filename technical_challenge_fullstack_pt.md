@@ -177,5 +177,5 @@ Valorizamos as seguintes qualidades:
 ---
 
 - Este código poderá ser extendido por você e por outras pessoas do desenvolvimento da Obramax durante outra etapa de processo;
-- O validador deve receber as operações através da entrada padrão (`stdin`) e retornar o resultado da validação através da saída padrão (`stdout`), não em uma API REST;
+- O validador deve receber as operações através da entrada padrão (`stdin`) e retornar o resultado da validação através da saída padrão (`stdout`);
 - Uma solução incompleta não é critério de desclassificação, porém quanto mais regras implementar mais conseguiremos analisar sua capacidade de desenvolvimento.
